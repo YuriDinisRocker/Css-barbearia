@@ -1,0 +1,88 @@
+
+
+.cabeçalho{
+    font-size: 30px;
+    padding-left: 20px;
+
+}
+
+.Principal{
+
+    background-color: #cccc;
+    padding: 30px;
+}
+
+#banner{
+
+    width: 100%;
+
+}
+
+
+
+h1{
+
+    text-align: center;
+    
+}
+
+p {
+    
+    text-align: center;
+
+}
+
+#p2{
+
+    font-size: 20px;
+
+}
+
+h2{
+
+    text-align: center;
+
+}
+
+em strong{
+
+    color: red;
+
+}
+
+.Beneficios{
+
+    background-color: #FFFF;
+    padding: 5%;
+}
+
+
+.Itens{
+
+    font-style: italic;
+
+}
+
+.listinha{
+    display: inline-block;
+    position: absolute;
+    vertical-align: middle;
+    margin-top: 100px;
+    margin-left: 10px;
+    font-size: 35px;
+    font-style: impact;
+    
+
+
+}
+
+#projeto{
+
+    width: 50%;
+    vertical-align: middle;
+    margin-left: 675px;
+
+}
+
+
+
